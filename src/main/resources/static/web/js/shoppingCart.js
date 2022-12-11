@@ -176,7 +176,7 @@ const app = Vue.createApp({
                                             })
                                             .then(response => {
                                                 localStorage.clear()
-                                                window.location.href = "../web/client/shopping.html"
+                                                window.location.href = "../web/client-purchases.html"
                                             })
                                     }).catch(error => {
                                         console.log(error)
