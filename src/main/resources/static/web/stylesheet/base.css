@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+ body{
+    font-family: 'Gotham Pro', sans-serif;
+    /* font-family: 'Gotham Pro Medium', sans-serif; */
+	font-weight: 500;
+	color: #282828;
+	font-size: 13px;
+    width: 100%;
+	font-weight: normal;
+}
+
+
+ a{
+    text-decoration: none;
+    
+}
+
+.base li{
+    list-style: none;
+}
