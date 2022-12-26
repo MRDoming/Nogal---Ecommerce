@@ -10,6 +10,28 @@ Cuenta con una pagina de inicio con publicidad de la marca, un menu para poder n
 
  ![inicio](https://raw.githubusercontent.com/MRDoming/Nogal-Ecommerce/main/src/main/resources/static/web/img/nogal-inicio.png)
 
+Una pagina de shop con todos los productos disponibles, con la posibilidad de filtrarlos por material, categoria o palabra clave y tambien ordenarlos por precio de mayor a menor: 
+
+
+ ![productos](https://raw.githubusercontent.com/MRDoming/Nogal-Ecommerce/main/src/main/resources/static/web/img/nogal-productos.png)
+
+Cada producto tiene su pagina de detalles, donde aparece la catidad de stock disponible y una breve descripción del mismo. Ahí tambien se puede guardar el producto en los favoritos del cliente o agregarlo al carrito para una posible compra (siempre y cuando el cliente esté logueado)
+
+ ![detalles](https://raw.githubusercontent.com/MRDoming/Nogal-Ecommerce/main/src/main/resources/static/web/img/nogal-detalle.png)
+ 
+ El carrito de compras: 
+ 
+  ![carrito](https://raw.githubusercontent.com/MRDoming/Nogal-Ecommerce/main/src/main/resources/static/web/img/nogal-carrito.png)
+
+
+Cada cliente tiene su pagina personal, donde puede ver su informacion, sus productos guardados previamente en favoritos, y una seccion con las compras que ya realizo en la pagina, donde puede ver la fecha, el valor total de la compra, los productos y tambien descargar un remito en formato pdf.
+
+ ![cliente](https://raw.githubusercontent.com/MRDoming/Nogal-Ecommerce/main/src/main/resources/static/web/img/nogal-cliente.png)
+ 
+ 
+ Nogal cuenta tambien con una pagina exclusiva para administradores, donde pueden agregar productos nuevos y editar o eliminar productos existentes, ver la lista de clientes registrados y tambien las compras que se hicieron por la pagina.
+ 
+  ![administrador](https://raw.githubusercontent.com/MRDoming/Nogal-Ecommerce/main/src/main/resources/static/web/img/nogal-administrador.png)
 
 
 
