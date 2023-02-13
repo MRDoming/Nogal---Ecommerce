@@ -154,7 +154,7 @@ const app = Vue.createApp({
                 })
                 .then((result) => {
                     if (result.isConfirmed) {
-                        axios.post('https://homebanking-production-8635.up.railway.app/api/payments', { number: `${this.numberCardVModel}`, cvv: `${this.cvvCardVModel}`, amount: `${this.totalAmount}`, description: `Nogal purchase` })
+                        axios.post('https://coperbank-production.up.railway.app/api/payments', { number: `${this.numberCardVModel}`, cvv: `${this.cvvCardVModel}`, amount: `${this.totalAmount}`, description: `Nogal purchase` })
                             .then(response => {
                                 console.log(response)
                                 this.ordenateArray()
